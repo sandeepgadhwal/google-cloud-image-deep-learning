@@ -1,0 +1,1 @@
+gcloud compute images export --destination-uri gs://deeplearningimage/debaindeeplearningpytorch2.tar.gz --image debaindeeplearningpytorch2
