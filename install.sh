@@ -35,4 +35,4 @@ conda clean -a -y
 
 
 # Install pip deps
-pip install transformers --no-cache-dir
+pip install transformers einops accelerate flask --no-cache-dir
